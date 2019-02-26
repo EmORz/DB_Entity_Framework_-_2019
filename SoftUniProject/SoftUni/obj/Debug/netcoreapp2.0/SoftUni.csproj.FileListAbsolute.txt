@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\SoftUni\DB_Entity_Framework_-_2019\SoftUniProject\SoftUni\bin\Debug\netcoreapp2.0\SoftUni.deps.json
+C:\Users\User\source\repos\SoftUni\DB_Entity_Framework_-_2019\SoftUniProject\SoftUni\bin\Debug\netcoreapp2.0\SoftUni.runtimeconfig.json
+C:\Users\User\source\repos\SoftUni\DB_Entity_Framework_-_2019\SoftUniProject\SoftUni\bin\Debug\netcoreapp2.0\SoftUni.runtimeconfig.dev.json
+C:\Users\User\source\repos\SoftUni\DB_Entity_Framework_-_2019\SoftUniProject\SoftUni\bin\Debug\netcoreapp2.0\SoftUni.dll
+C:\Users\User\source\repos\SoftUni\DB_Entity_Framework_-_2019\SoftUniProject\SoftUni\bin\Debug\netcoreapp2.0\SoftUni.pdb
+C:\Users\User\source\repos\SoftUni\DB_Entity_Framework_-_2019\SoftUniProject\SoftUni\obj\Debug\netcoreapp2.0\SoftUni.csprojAssemblyReference.cache
+C:\Users\User\source\repos\SoftUni\DB_Entity_Framework_-_2019\SoftUniProject\SoftUni\obj\Debug\netcoreapp2.0\SoftUni.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\SoftUni\DB_Entity_Framework_-_2019\SoftUniProject\SoftUni\obj\Debug\netcoreapp2.0\SoftUni.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\SoftUni\DB_Entity_Framework_-_2019\SoftUniProject\SoftUni\obj\Debug\netcoreapp2.0\SoftUni.AssemblyInfo.cs
+C:\Users\User\source\repos\SoftUni\DB_Entity_Framework_-_2019\SoftUniProject\SoftUni\obj\Debug\netcoreapp2.0\SoftUni.dll
+C:\Users\User\source\repos\SoftUni\DB_Entity_Framework_-_2019\SoftUniProject\SoftUni\obj\Debug\netcoreapp2.0\SoftUni.pdb

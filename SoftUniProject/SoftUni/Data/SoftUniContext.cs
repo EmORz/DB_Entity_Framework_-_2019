@@ -1,5 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using SoftUni.Data.Models;
+using SoftUni.Models;
 
 namespace SoftUni.Data
 {
