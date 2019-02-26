@@ -25,7 +25,7 @@ namespace SoftUni.Data
         {
             if (!optionsBuilder.IsConfigured)
             {
-                optionsBuilder.UseSqlServer(Configuration.ConfigurationString);
+                optionsBuilder.UseSqlServer("Server=DESKTOP-CP2NEHV\\SQLEXPRESS;Database=SoftUni;Integrated Security=True;");
             }
         }
 
